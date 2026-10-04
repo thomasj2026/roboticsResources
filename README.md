@@ -1,0 +1,2 @@
+# Accumulated resources for a future roboticist
+In this repository I have listed varying resources such as literature, example code, and useful tools for people interested in robotics. I started this to document all of the resources I have needed to reference as I lack essential knowledge in the field of Robotics and Controls. Most of it is what I learned from my time at Cornell and what helped me understand concepts better.
